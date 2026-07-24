@@ -2,3 +2,6 @@ streamlit
 opencv-python-headless
 gTTS
 ultralytics
+numpy
+Pillow
+pygame
