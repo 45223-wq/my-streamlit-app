@@ -1,1 +1,3 @@
 libgl1
+freeglut3-dev
+libasound2-dev
